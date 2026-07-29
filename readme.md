@@ -90,52 +90,7 @@ The application uses **Linear Regression** from **Scikit-learn**.
 
 ---
 
-## 🚀 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/USA-House-Price-Prediction.git
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd USA-House-Price-Prediction
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Application
-
-```bash
-streamlit run app.py
-```
-
-The application will open in your browser at:
-
-```text
-http://localhost:8501
-```
-
----
-
-## 💻 How to Use
-
-1. Enter the required house details.
-2. Click **Predict House Price**.
-3. View:
-
-   * Estimated House Price
-   * Population Category
-
----
+LIVE APP -->>>> https://house-price-prediction-awv3hvfysk3cpdqk7k5ngs.streamlit.app/
 
 ## 📈 Population Categories
 
