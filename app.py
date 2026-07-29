@@ -23,7 +23,7 @@ st.write(
 # -----------------------------
 # Load Dataset
 # -----------------------------
-df = pd.read_csv("Dataset/USA_Housing.csv")
+df = pd.read_csv("USA_Housing.csv")
 
 # -----------------------------
 # Feature Engineering
